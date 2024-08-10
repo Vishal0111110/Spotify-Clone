@@ -2,7 +2,7 @@
 It is a flutter project in which i cloned famous music player app spotify.
 
 ## Installation
-After cloning this repository, migrate to ```Oikos app``` folder. Then, follow the following steps:
+After cloning this repository. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication (Google Sign In, Guest Sign In)
 - Make Firestore Rules
