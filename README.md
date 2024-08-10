@@ -1,7 +1,24 @@
-# Spotify Clone
+## Spotify Clone
+In this project i cloned famous music player app named spotify
 
-📺 Watch Video
+## Installation
+After cloning this repository. Then, follow the following steps:
+- Create Firebase Project
+- Enable Authentication (Google Sign In, Guest Sign In)
+- Make Firestore Rules
+- Create Android, iOS & Web Apps
+- Use FlutterFire CLI to add the Firebase Project to this app.
+Then run the following commands to run your app:
+```bash
+  flutter pub get
+  flutter run
+```
 
-[YouTube video](https://youtu.be/4TFbXepOjLI) where the source code is explained. [Subscribe YouTube channel](https://www.youtube.com/channel/UCkSbTj3XSWdaGfHiITheBqg).
+## Tech Used
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
-![](https://github.com/mahdinazmi/Spotify-Clone-With-Flutter/blob/main/thumbnail.jpg)
+**Client**: Flutter, Riverpod 2.0, Routemaster
+    
+## Feedback
+
+If you have any feedback, please reach out to me at buyyarapuvishalgaurav123@gmail.com
